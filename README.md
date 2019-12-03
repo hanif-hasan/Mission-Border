@@ -1,7 +1,5 @@
 # Mission Border - game
-
-Simple game created by using Java and JavaFX
-
+Simple game created by using Java, JavaFX and mysql
 
 ## Screenshots
 
